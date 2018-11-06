@@ -20,3 +20,5 @@ It is important to have installed beforehand in your laptops the VO-tools to be 
 [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/). Download the topcat-full.jar file and execute it from a terminal typing 
 
                                 $ java -jar topcat-full.jar
+
+As any Java tool, Aladin Desktop and TOPCAT require a Java Virtual Machine on your machine. 
