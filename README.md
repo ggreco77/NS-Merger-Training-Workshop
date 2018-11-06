@@ -3,6 +3,8 @@
 # Transient Astrophysics
 This repository contains all the material needed for the GWsky course held at **Centro Residenziale Universitario di Bertinoro**, 12-16 November 2018 - [NS Merger Training Workshop](https://nsmergerworkshop.wordpress.com/). We provide sample code in Python; you can download the documents and run the code samples in [Jupyter Notebook](http://jupyter.org/). To install Jupyter Notebook see [here](http://jupyter.org/install.html). We work using only **Python 3.x.x**)
 
+**DO not forget your smartphone for a VR section**
+
 
 # Installation and initialization
 
