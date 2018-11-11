@@ -24,4 +24,4 @@ It is important to have installed beforehand in your laptops the VO-tools to be 
 As any Java tool, Aladin Desktop and TOPCAT require a Java Virtual Machine on your machine. 
 
 # Tutorial first day
-https://htmlpreview.github.io/?https://github.com/ggreco77/NS-Merger-Training-Workshop/blob/master/Tutorial_day1.html
+https://htmlpreview.github.io/?https://github.com/ggreco77/NS-Merger-Training-Workshop/blob/master/Tutorial_day1_v2.html
