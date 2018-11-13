@@ -28,4 +28,4 @@ https://htmlpreview.github.io/?https://github.com/ggreco77/NS-Merger-Training-Wo
 
 
 # Tutorial second day
-https://htmlpreview.github.io/?https://github.com/ggreco77/NS-Merger-Training-Workshop/blob/master/Tutorial_day2.html
+https://htmlpreview.github.io/?https://github.com/ggreco77/NS-Merger-Training-Workshop/blob/master/Bertinoro_day2.html
